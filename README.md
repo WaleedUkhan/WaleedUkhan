@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @WaleedUkhan
-- 👀 I’m interested in JavaScript Programming
-- 🌱 I’m currently learning WEB DEV, MERN STACK
-- 💞️ I’m looking to collaborate on innovative web development projects, especially those involving React, Node.js, and the MERN stack. Whether it's building dynamic user interfaces or tackling backend challenges, I’m excited to contribute and learn from others in the field.
+ I'm Waleed Khan
+Full Stack JavaScript Developer | MERN | MEAN | Next.js
+
+>> 1 year of professional experience building scalable web applications
 
 
-<!---
-WaleedUkhan/WaleedUkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate full-stack developer specializing in modern JavaScript technologies. I build responsive, user-friendly web applications with clean code and optimal performance. I love turning ideas into functional, efficient solutions.
+
+🔭 Currently working on: Full-stack projects using MERN stack and Next.js
+🌱 Currently exploring: Advanced React patterns, microservices architecture, and cloud technologies
+💡 Interests: Web development, UI/UX design, and solving real-world problems with code
+💞️ Open to collaborate on: Innovative web projects, open-source contributions, and startup ideas
+📫 Reach me at: waleedgfx.u@gmail.com
